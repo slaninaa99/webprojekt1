@@ -1,0 +1,29 @@
+body
+{
+  border: 3px double red;
+	background-color: #006400;
+	text-align: left;
+	align: center;
+	border-radius: 8px;
+}
+#menu
+{
+  border: 3px double red;
+	background-color: #ffffaa;
+	height: 90%;
+	width: 25%;
+	margin: 10px auto 10px auto;
+	padding: 2px 2px 2px 2px;
+	float: left;
+	// overflow: auto;
+  //background-color: darkkhaki;
+	//text-indent: 50px;
+	//text-align: center;
+	//height: 95%;
+	//width: 25%;
+	//margin: 2px auto 2px auto;
+	//padding: 2px 2px 2px 2px;
+	// float: left;
+	//overflow: auto;
+	// background: #00ffaa url("o1.jpg") no-repeat center;
+}
